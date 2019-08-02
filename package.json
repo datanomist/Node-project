@@ -1,5 +1,5 @@
 {
-  "name": "venkkatesh-nodeapp",
+  "name": "venkatesh",
   "version": "1.0.0",
   "description": "A Hello World HTTP server using Node JS",
   "main": "main.js",
@@ -10,6 +10,7 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/datanomist/Node-project/edit/master/package.json"
+  },
   "keywords": [
     "node",
     "docker",
