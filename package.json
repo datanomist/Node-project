@@ -8,7 +8,8 @@
     "start": "node main.js"
   },
   "repository": {
-    "type": "git",https://github.com/datanomist/Node-project/edit/master/package.json  },
+    "type": "git",
+    "url": "https://github.com/datanomist/Node-project/edit/master/package.json"
   "keywords": [
     "node",
     "docker",
